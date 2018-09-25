@@ -10,8 +10,9 @@ class Book
    def author=(author)
      @author = author
    end
-  #  def page_count
-  #  end
+   def author
+      @author
+   end
    #
   #  def genre
   #  end
