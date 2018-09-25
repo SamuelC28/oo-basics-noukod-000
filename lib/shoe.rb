@@ -6,7 +6,7 @@ class Shoe
   end
 
   def title
-    @title
+    @brand
   end
 
   def turn_page
